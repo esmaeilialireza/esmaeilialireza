@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">Familiarity in the process of system development, testing and troubleshooting.👾</h4>
+<h4 align="left">Familiarity in the process of system development, testing and troubleshooting👾</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">Skilled in the fields of TypeScript, React, React-Native and related front-end programming tools.👇️👨‍💻</h4>
+<h4 align="left">Skilled in the fields of TypeScript, React, React-Native and related front-end programming tools👇️👨‍💻</h4>
 
 ###
 
@@ -34,19 +34,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" width="65" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="45" width="65" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="65" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="65" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" width="65" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="45" width="65" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" width="65" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="45" width="65" alt="socketio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" width="65" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" width="65" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="45" width="65" alt="ubuntu logo"  />
 </div>
 
 ###
 
-<h4 align="left">Also I have recently started the back-end course so that I have enough familiarity with server-side programming and its related technologies👽️</h4>
+<h4 align="left">Also I have recently started the back-end course so that I have enough familiarity with server-side programming and its related technologies👇️👽️</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="66" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" width="66" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" width="66" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="66" alt="mysql logo"  />
+</div>
 
 ###
 
@@ -70,3 +73,4 @@
 </div>
 
 ###
+Profile Readme Generator
