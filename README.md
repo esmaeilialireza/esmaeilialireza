@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an Intercity transportation system<br>👨‍💻 I'm looking to collaborate on international startups<br>🌱 I'm currently learning about backend technologies<br>💬 Ask me about React, React-Native, TypeScript , etc...<br>⚡️ I'm trying to be focused on my goals<br>
+🔭 I'm currently working on an Intercity transportation system<br>👨‍💻 I'm looking to collaborate on international startups<br>🌱 I'm currently learning about backend technologies and improving my english skills<br>💬 Ask me about React, React-Native, TypeScript , etc...<br>⚡️ I'm trying to be focused on my goals<br>
 
 
 ## 🌐 Socials:
@@ -17,7 +17,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hajalizaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
