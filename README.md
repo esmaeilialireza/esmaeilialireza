@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on an Intercity transportation system<br>👨‍💻 I'm looking to collaborate on international startups<br>🌱 I'm currently learning about backend technologies and improving my english skills<br>💬 Ask me about React, React-Native, TypeScript , etc...<br>⚡️ I'm trying to be focused on my goals<br>
+____________________________________________________________________________________________
+Passionate software engineer with over four years of experience in developing dynamic web and mobile applications.
+Specializing in React.js, React Native, and Next.js, I excel in both frontend and backend development with a commitment to
+continuous learning and creativity in team settings.
 
 
 ## 🌐 Socials:
